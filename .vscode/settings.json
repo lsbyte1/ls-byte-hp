@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd \"c:\\\\Users\\\\larss\\\\Desktop\\\\Websites\\\\LS Byte HP\"; python -m http\\.server 8000$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
